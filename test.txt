@@ -1,2 +1,3 @@
 dies ist ein text-test dokument
 diese zeile ist eine änderung zum testen von branches
+diese zeile soll einen merge-conflict testen
